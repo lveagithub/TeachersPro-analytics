@@ -7,7 +7,6 @@ seaborn
 memory-profiler
 openpyxl
 mpld3
-texlive-full
 statsmodels
 plotly
 jupyter
