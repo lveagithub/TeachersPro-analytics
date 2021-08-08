@@ -11,6 +11,8 @@ statsmodels
 plotly
 jupyter
 ipython
+imblearn
+scikit-learn
 nbconvert
 voila
 voila-gridstack
