@@ -160,5 +160,5 @@ dmypy.json
 
 #Authentication
 /authentication
-
+/twitter_analysis/authentication
 # End
