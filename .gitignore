@@ -159,6 +159,5 @@ dmypy.json
 .ionide
 
 #Authentication
-/authentication
-/twitter_analysis/authentication
+twitter_analysis/authentication
 # End
